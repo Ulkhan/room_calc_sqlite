@@ -1,0 +1,1 @@
+﻿public List<string> Sites = new List<string> { "StackOverflow", "Super User", "Meta SO" };
